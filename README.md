@@ -13,17 +13,17 @@ So, for this little page, I set-up two design objectives/requirements:
 
 ![Various HTML sematic tags](img_sem_elements.gif)
 
-Grid layout
-3 columns
-7 rows
-header: 1 rows x 3 columns
-nav: 1 rows X 3 columns
-section: 2 rows x 2 columns
-article: 2 rows x 2 columns
-aside: 2 rows x 1 columns
-footer: 1 row x 3 columns
-
-
-
+Grid layout:
+- 3 columns
+- 7 rows
+- header: 1 rows x 3 columns
+- nav: 1 rows X 3 columns
+- section: 2 rows x 2 columns
+- article: 2 rows x 2 columns
+- aside: 2 rows x 1 columns
+- footer: 1 row x 3 columns
 
 Here are two solid resources if you want to know more:
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) by Chris House. He has his podcast, and I've heard him on other podcasts too.
+- [Grid by Example](http://gridbyexample.com/resources/) by Rachel Andrew. She seems to be the go-to person on this stuff.
+
